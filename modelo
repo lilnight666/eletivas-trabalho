@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        header{
+            
+            padding-top: 50px;
+          
+            background-color: rgb(139, 51, 125);
+        }
+        nav{
+            background-color: rgb(94, 17, 97);
+            padding: 20px 20px;
+
+            text-align: justify;
+        }
+        nav>a{
+            color: white;
+            padding: 20px;
+            text-decoration: none;
+            
+        }
+        nav>a:hover{
+            background-color: rgb(129, 16, 114);
+        }
+        body{
+            background-color: rgb(226, 43, 113);
+            margin: 0px;
+            padding: 0px
+        }
+        main{
+            background-color: rgb(255, 80, 162);
+            padding-top: 5px;
+            padding: auto;
+
+
+        }
+        h1{
+            text-align: center;
+        }
+        p{
+            text-align: center;
+        }
+        img{
+            margin: 15,8px;
+            border-radius: 40px;
+        }
+        footer{
+            color: aliceblue;
+            margin: 20x;
+            padding: 20px;
+            background-color: darkblue;
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        #sla{
+            margin: 70px;
+        }
+    </style>
+</head>
+<body>
+    <header> 
+        <h1>trabalho de eletivasss</h1>
+        <nav>
+            <a href="https://laart.art.br/blog/historia-fotografia-brasil/#:~:text=Quem%20foram%20os%20primeiros%20fot%C3%B3grafos,hist%C3%B3ria%20da%20fotografia%20no%20Brasil.">hercule loerence</a>
+            <a  href="https://pt.wikipedia.org/wiki/Dorothea_Lange"   target="_blank">Dorothea_Lange </a>
+            
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1></h1>
+            <p>
+             
+
+
+            </p>
+            <img src="" alt="">
+
+            
+        </section>
+    </main>
+    <footer>criado por manuel richard </footer>
+</body>
+</html>
